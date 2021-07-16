@@ -17,6 +17,7 @@ body{
 
 
 header .container{
+    margin-right: 5px;
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -53,4 +54,24 @@ header nav a:hover{
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
+}
+
+.filme-principal .descricao{
+    margin-bottom: 40px;
+}
+
+.titulo{
+    margin-top: 1 5%;
+    font-size: 40px;
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+}
+
+.botao{
+    background-color:rgba(0,0,0,.50);
+    border: none;
+    color:white;
+
+    padding: 15px 30px;
+    margin-right: 15px;
+    font-size: 12px;
 }
