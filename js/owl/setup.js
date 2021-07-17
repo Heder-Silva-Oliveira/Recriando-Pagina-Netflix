@@ -15,5 +15,9 @@ $('.owl-carousel').owlCarousel({
     }
 })
 function  clicou () {
-    alert("Obrigado")
+    window.open("https://www.youtube.com/watch?v=Y_THXMXAczQ&ab_channel=GameofThrones")
+}
+
+function info(){
+    alert("Game of Thrones está de volta para sua oitava e última temporada. Com o Rei da Noite finalmente cruzando a Muralha junto a um dragão de gelo, novas alianças e traições determinam o destino de todos em Westeros.")
 }
