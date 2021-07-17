@@ -1,5 +1,5 @@
 :root{
-    --vermelho:#E50914;
+    --vermelho:#09c4e5;
     --preta:#141414;
 }
 
@@ -27,7 +27,7 @@ header .container{
 header .logo{
     margin-left: 5px;
     color: var(--vermelho);
-    font-family: 'Arial Black', Times;
+    font-family: 'Arial Black';
     font-size: 40px;
 }
 
